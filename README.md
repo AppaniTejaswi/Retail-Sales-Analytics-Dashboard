@@ -30,7 +30,8 @@ This dashboard helps answer questions such as:
 - DAX
 - Superstore Dataset
 - Data Visualization
-
+- PySpark
+  
 ---
 
 ## 📊 Dashboard Features
